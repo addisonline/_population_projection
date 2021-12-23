@@ -8,53 +8,18 @@
 
 import "\\tsclient\drives\demographic_projection_2021\Exog_Projection_Dem_2019.xlsx"  byrow range="Birth Rates - Ontario!bd4:eg12" namepos=first @freq a %start1 
 
+
 'Death Rates
-
 import "\\tsclient\drives\demographic_projection_2021\Exog_Projection_Dem_2019.xlsx"  byrow range="Death Rates - Ontario!bd4:eg187" namepos=first @freq a %start1
-
- 
-
 import "\\tsclient\drives\demographic_projection_2021\Exog_Projection_Dem_2019.xlsx"  byrow range="Immigration - Ontario!bd4:eg187" namepos=first @freq a %start1
-
- 
-
 import "\\tsclient\drives\demographic_projection_2021\Exog_Projection_Dem_2019.xlsx"  byrow range="Emmigration - Ontario!bd4:eg187" namepos=first @freq a %start1
-
- 
-
 import "\\tsclient\drives\demographic_projection_2021\Exog_Projection_Dem_2019.xlsx"  byrow range="Temporary Emigrants - Ontario!bd4:eg187" namepos=first @freq a %start1
-
- 
-
 import "\\tsclient\drives\demographic_projection_2021\Exog_Projection_Dem_2019.xlsx"  byrow range="Returning Emigrants - Ontario!bd4:eg187" namepos=first @freq a %start1
-
- 
-
 import "\\tsclient\drives\demographic_projection_2021\Exog_Projection_Dem_2019.xlsx"  byrow range="NonPermanent Residents - Ont!bd4:eg187" namepos=first @freq a %start1
-
- 
-
 import "\\tsclient\drives\demographic_projection_2021\Exog_Projection_Dem_2019.xlsx"  byrow range="IP-Immigration - Ont!bd4:eg187" namepos=first @freq a %start1
-
- 
-
 import "\\tsclient\drives\demographic_projection_2021\Exog_Projection_Dem_2019.xlsx"  byrow range="IP-Emmigration - Ont!bd4:eg187" namepos=first @freq a %start1
-
- 
-
- 
-
 import "\\tsclient\drives\demographic_projection_2021\Exog_Projection_Dem_2019.xlsx"  byrow range="Total IMEM - Ontario!bd4:eg10" namepos=first @freq a %start1
-
- 
-
- 
-
 import "\\tsclient\drives\demographic_projection_2021\Exog_Projection_Dem_2019.xlsx"  byrow range="Total IMEM - Ontario!bd13:eg19" namepos=first @freq a %start1
-
- 
-
- 
 
  
 
