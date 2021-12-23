@@ -1,0 +1,11312 @@
+
+{
+	"commands" : null,
+	"description" : "Generated based on timer.",
+	"label" : "auto",
+	"workbook_meta" : 
+	{
+		"_name" : "\\\\tsclient\\drives\\demographic_projection_2021\\demographic_projection_code_canada_data_output_v2_workfile.wf1",
+		"_pages" : 
+		[
+			
+			{
+				"_frequency" : "A",
+				"_last_update" : [ 738122.9048495371, "11/29/2021 21:42" ],
+				"_name" : "Raw",
+				"_obj_count" : 2256,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "date",
+						"_name" : "@DATE",
+						"_obs_max" : [ 748382.0, "01/01/2050" ],
+						"_obs_min" : [ 719527.0, "01/01/1971" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "B_EMMIGRATION",
+						"_type" : "GROUP"
+					},
+					
+					{
+						"_name" : "B_IMMIGRATION",
+						"_type" : "GROUP"
+					},
+					
+					{
+						"_name" : "B_RIMMIGRATION",
+						"_type" : "GROUP"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "DB",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DBF",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DBM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDF90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDM90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMF90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTEMM90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMF90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTIMM90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNET",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMF90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETEMM90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETF90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNETM90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRF90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNNPRM90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMF90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTNTEMM90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMF90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DINTREMM90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DLB",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DLB14U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DLB1519",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DLB2024",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DLB2529",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DLB3034",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DLB3539",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DLB4044",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DLB4549",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DLB5054",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPF90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPM90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DPRES",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "SWINTEM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "SWINTIM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "SWINTNNPR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "SWINTNTEM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "SWINTREM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMF90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTEMM90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMF90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTIMM90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTNTEMM0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMF90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM0",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM0U",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM10",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM11",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM12",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM13",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM14",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM15",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM16",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM17",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM18",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM19",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM20",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM21",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM22",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM23",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM24",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM25",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM26",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM27",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM28",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM29",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM30",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM31",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM32",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM33",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM34",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM35",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM36",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM37",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM38",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM39",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM40",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM41",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM42",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM43",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM44",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM45",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM46",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM47",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM48",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM49",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM51",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM52",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM53",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM54",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM55",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM56",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM57",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM58",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM59",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM60",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM61",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM62",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM63",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM64",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM65",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM66",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM67",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM68",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM69",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM7",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM70",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM71",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM72",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM73",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM74",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM75",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM76",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM77",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM78",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM79",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM8",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM80",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM81",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM82",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM83",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM84",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM85",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM86",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM87",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM88",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM89",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM9",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UDINTREMM90O",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "V471085",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "V471088",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 80
+			}
+		]
+	}
+}
