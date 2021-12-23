@@ -1,2 +1,5 @@
-# _population_projection
-- importing function for #Canada and #ON from statCAN - #eview , - Population projection model #code 
+# _population_projection #eview
+
+#code - importing function for #Canada and #ON from statCAN 
+Population projection model #code 
+Instructions on how to run code
