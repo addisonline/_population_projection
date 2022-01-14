@@ -26,7 +26,7 @@ Once New program module windo pops-up, execute the following
                     #demographic_projection_on_code.prg
 
 
-**Programming second Pahse ( running the icon_modle for both #Canada and #Ontario 
+**Programming second Phase ( running the icon_modle for both #Canada and #Ontario 
 
 _ **File Type: projection_canada
 
@@ -38,7 +38,7 @@ Select
                   #icon_dem_ON.prg
  
  
- **Programming 3RD Pahse ( running exogenous variables for both #Canada and #Ontario 
+ **Programming 3RD Phase ( running exogenous variables for both #Canada and #Ontario 
 
 
 #icondem_code_canada_data_output_&_exog_variables_v2.prg
