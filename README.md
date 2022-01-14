@@ -1,7 +1,7 @@
 # extracting _population_projection by using #eview https://www.eviews.com/home.html
 
 #coding instructions for the following objectives
- // data set importing function for #Canada and #ON from statCAN 
+ // **data set importing function for #Canada and #ON from statCAN 
 // demographics population projection model #code 
 
 **Instructions on how to run code
